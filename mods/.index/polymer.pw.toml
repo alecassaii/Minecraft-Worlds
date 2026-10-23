@@ -1,0 +1,21 @@
+filename = 'polymer-bundled-0.18.4+26.3.jar'
+name = 'Polymer'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.18.4+26.3'
+
+[download]
+hash = '9620ef10509978f5076ca414ae69f615a6e09a53389f920155eae6aae631032bef975a89ae99509949473a82c6909e441b0a93c144629bf8a3d585b848998378'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xGdtZczs/versions/G0fTdl8M/polymer-bundled-0.18.4%2B26.3.jar'
+
+[update.modrinth]
+mod-id = 'xGdtZczs'
+version = 'G0fTdl8M'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 4,
+  "defaultEmissiveLightLevel": 15,
+  "disabledEntries": [
+    "minecraft:coal_ore"
+  ],
+  "namespaceModOverrides": {},
+  "emissiveLightLevels": {}
+}

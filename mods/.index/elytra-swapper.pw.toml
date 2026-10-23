@@ -1,0 +1,21 @@
+filename = 'ElytraSwapper-fabric-26.3-2.1.0+26.3.jar'
+name = 'ElytraSwapper'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.0+26.3-fabric'
+
+[download]
+hash = '41c0a88b725c171d94d3745bc2a4ff0f0636c7f5d123301b4a9f298dca00daa799968609901b9c5f6e8886ae58f7853e4730ae3d9055507089f0b7222673b2c7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vITmEkpU/versions/FHf5ysTt/ElytraSwapper-fabric-26.3-2.1.0%2B26.3.jar'
+
+[update.modrinth]
+mod-id = 'vITmEkpU'
+version = 'FHf5ysTt'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

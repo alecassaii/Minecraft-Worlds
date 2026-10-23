@@ -1,0 +1,25 @@
+filename = 'smoothswapping-0.9.11-26.3-fabric.jar'
+name = 'Smooth Swapping'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.9.11-26.3'
+
+[download]
+hash = 'bbff9cd78c1c566907b4ffa97d37d43d56eb96c6d58dc566a3954998a91a0cf708e014bd635eeda14e3956e9c3feb9ce34bbca1643a46aa1d7fbe4c88e3e80ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ydZic5r4/versions/TYYQn5Mn/smoothswapping-0.9.11-26.3-fabric.jar'
+
+[update.modrinth]
+mod-id = 'ydZic5r4'
+version = 'TYYQn5Mn'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

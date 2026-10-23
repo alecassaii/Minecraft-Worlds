@@ -1,0 +1,21 @@
+filename = 'sleepwarp-2.13.0+26.3-rc-3.jar'
+name = 'SleepWarp (Updated)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3 rc 3', '26.3-rc-3', '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.13.0+26.3-rc-3'
+
+[download]
+hash = '70a657d9498cc2c80122b7c5f155a8a91d1b13f5e768954a1146d15b993e6f2eb2a3ccd86680fa54db1d87d2030e21693559d13405542d851837a21b477f63fb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DlSXkZVT/versions/gJSdXSWG/sleepwarp-2.13.0%2B26.3-rc-3.jar'
+
+[update.modrinth]
+mod-id = 'DlSXkZVT'
+version = 'gJSdXSWG'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'codAaoxh'
+type = 'REQUIRED'

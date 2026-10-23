@@ -1,0 +1,10 @@
+coremods/
+crash-reports/
+data/
+defaultconfigs/
+downloads/
+local/
+logs/
+server-resource-packs/
+texturepacks/
+.env

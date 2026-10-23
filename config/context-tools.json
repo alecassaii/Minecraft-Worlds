@@ -1,0 +1,5 @@
+{
+  "requireControlHeldDown": false,
+  "requireCrouching": false,
+  "requireToolInHand": true
+}
