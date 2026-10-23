@@ -8,3 +8,14 @@ logs/
 server-resource-packs/
 texturepacks/
 .env
+config/
+polymer/
+command-history.txt
+debug-profile.json
+icon.png
+options.txt
+polytone_popup.json
+realms_persistance.json
+usercache.json
+.fabric/
+.mods/
